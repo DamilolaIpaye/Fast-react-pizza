@@ -10,3 +10,4 @@ Currently, two official plugins are available:
 # fast
 # fast
 # Fast-react-pizza
+# Fast-react-pizza
